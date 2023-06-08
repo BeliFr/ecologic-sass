@@ -240,7 +240,6 @@ section {
 
     }
 }
-
 footer {
     background-color: $quaternion-color;
     width: 100%;
@@ -251,6 +250,5 @@ footer {
         @include flexCenter(row, center, center);
         gap:40px;
         padding-bottom: 40px;
-
     }
 }
